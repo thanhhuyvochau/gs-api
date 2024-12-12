@@ -1,0 +1,9 @@
+[
+  { "id": "ObjectId('64b0c89f72efae22c85f1e6d')", "name": "cardio" },
+  { "id": "ObjectId('64b0c89f72efae22c85f1e6e')", "name": "olympic_weightlifting" },
+  { "id": "ObjectId('64b0c89f72efae22c85f1e6f')", "name": "plyometrics" },
+  { "id": "ObjectId('64b0c89f72efae22c85f1e70')", "name": "powerlifting" },
+  { "id": "ObjectId('64b0c89f72efae22c85f1e71')", "name": "strength" },
+  { "id": "ObjectId('64b0c89f72efae22c85f1e72')", "name": "stretching" },
+  { "id": "ObjectId('64b0c89f72efae22c85f1e73')", "name": "strongman" }
+]

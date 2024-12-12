@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e5d')",
+    "name": "abdominals"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e5e')",
+    "name": "abductors"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e5f')",
+    "name": "adductors"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e60')",
+    "name": "biceps"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e61')",
+    "name": "calves"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e62')",
+    "name": "chest"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e63')",
+    "name": "forearms"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e64')",
+    "name": "glutes"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e65')",
+    "name": "hamstrings"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e66')",
+    "name": "lats"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e67')",
+    "name": "lower_back"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e68')",
+    "name": "middle_back"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e69')",
+    "name": "neck"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e6a')",
+    "name": "quadriceps"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e6b')",
+    "name": "traps"
+  },
+  {
+    "id": "ObjectId('64b0c89f72efae22c85f1e6c')",
+    "name": "tricep"
+  }
+]
